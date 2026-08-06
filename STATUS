@@ -1,1 +1,1 @@
-{"enabled": true, "message": "We’re currently performing scheduled maintenance to improve your experience. The service is temporarily unavailable while we complete updates. Please check back soon."}
+{"enabled": false, "message": "Your client has been temporarily blocked because our security system detected suspicious activity. This may include reverse engineering tools, debuggers, memory analysis software, or unauthorized modifications. If you believe this is an error, restart your computer and try again. If the issue persists, contact support."}
