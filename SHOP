@@ -1,1 +1,17 @@
-
+{
+  "id": "crosshair",
+  "name": "Crosshair",
+  "subtitle": "Custom overlay & recoil crosshair",
+  "icon": "\uf05b",
+  "view_index": 3,
+  "left_button": "Configure Settings",
+  "right_button": "Load",
+  "bullets": [
+    "Custom Crosshair",
+    "Sniper Crosshair",
+    "Recoil Follow",
+    "Rainbow Colors",
+    "Outline & Dot",
+    "Gap & Thickness"
+  ]
+}
